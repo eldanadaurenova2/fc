@@ -1,0 +1,43 @@
+<!-- public/catalog.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Catalog</title>
+</head>
+<body>
+  <h1>Catalog</h1>
+  <div id="product-list"></div> <!-- Здесь будут отображаться товары -->
+
+  <script>
+    // Получаем товары с сервера через API
+    fetch('/products')
+      .then(response => response.json())
+      .then(products => {
+        const productList = document.getElementById('product-list');
+        
+        // Проходим по всем товарам и отображаем их
+        products.forEach(product => {
+          console.log(product);
+          const productDiv = document.createElement('div');
+
+          productDiv.classList.add('product');
+          
+          // Создаем HTML для каждого товара
+          productDiv.innerHTML = `
+            <h2>${product.name}</h2>
+            <p>Category: ${product.category}</p>
+            <p>Price: $${product.price}</p>
+            <p>${product.description}</p>
+            <img src="${product.image_url}" alt="${product.name}" />
+          `;
+          
+          // Добавляем товар в DOM
+          productList.appendChild(productDiv);
+        });
+      })
+      .catch(err => console.error('Error fetching products:', err));
+  </script>
+</body>
+</html>
