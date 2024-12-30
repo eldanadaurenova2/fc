@@ -1,0 +1,1663 @@
+[{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845404"
+  },
+  "name": "Diamond Drop Earrings",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "White Gold",
+  "features": [
+    "Diamond inserts",
+    "Handmade"
+  ],
+  "price": 499.99,
+  "description": "Elegant Diamond Drop Earrings",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845405"
+  },
+  "name": "Silver Chain Necklace",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "Silver",
+  "features": [
+    "Engraved",
+    "Adjustable size"
+  ],
+  "price": 79.99,
+  "description": "Elegant Silver Chain Necklace",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access11.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845406"
+  },
+  "name": "Gold Stud Earrings",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "Gold",
+  "features": [
+    "Engraved",
+    "Adjustable size"
+  ],
+  "price": 50.99,
+  "description": "Elegant Gold Earrings",
+  "image_url": "https://ilin88.sirv.com/db-images/access/earrings1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845407"
+  },
+  "name": "Gold Stud Earrings",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "Gold",
+  "features": [
+    "Engraved",
+    "Adjustable size"
+  ],
+  "price": 50.99,
+  "description": "Elegant and nice Gold Earrings",
+  "image_url": "https://ilin88.sirv.com/db-images/access/earrings2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845408"
+  },
+  "name": "Gold Stud Ring",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "Gold",
+  "features": [
+    "Engraved"
+  ],
+  "price": 45.99,
+  "description": "Elegant and nice Gold ring",
+  "image_url": "https://ilin88.sirv.com/db-images/access/ring2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845409"
+  },
+  "name": "Gold  Ring",
+  "category": "Accessories",
+  "subcategory": "Jewelry",
+  "material": "Gold",
+  "features": [
+    "Engraved",
+    " Individual size"
+  ],
+  "price": 45.99,
+  "description": "Elegant and nice Gold ring",
+  "image_url": "https://ilin88.sirv.com/db-images/access/ring3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540a"
+  },
+  "name": "Blue shawl",
+  "category": "Accessories",
+  "subcategory": "shawl",
+  "material": "Silk",
+  "features": [
+    " Standard"
+  ],
+  "color": [
+    "blue"
+  ],
+  "price": 45.99,
+  "description": "Elegant blue shawl",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access10.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540b"
+  },
+  "name": "Classic Leather Belt",
+  "category": "Accessories",
+  "subcategory": "Belts",
+  "material": "Genuine Leather",
+  "length": "Adjustable",
+  "color": "Black",
+  "features": [
+    "Gold buckle",
+    "Durable"
+  ],
+  "price": 69.99,
+  "description": "Classic black belt",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access5.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540c"
+  },
+  "name": "Braided Fabric Belt",
+  "category": "Accessories",
+  "subcategory": "Belts",
+  "material": "Fabric",
+  "length": "Fixed",
+  "color": "Siver",
+  "features": [
+    "Lightweight",
+    "Stretchable"
+  ],
+  "price": 29.99,
+  "description": "Shiny silver belt",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access6.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540d"
+  },
+  "name": "Leather Shoulder Bag",
+  "category": "Accessories",
+  "subcategory": "Shoulder Bags",
+  "material": "Genuine Leather",
+  "color": "Brown",
+  "features": [
+    "Laptop compartment",
+    "Adjustable straps"
+  ],
+  "price": 129.99,
+  "description": "Comfy Leather Shoulder Bag",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540e"
+  },
+  "name": "Leather miniature Bag",
+  "category": "Accessories",
+  "subcategory": "Bags",
+  "material": "Leather",
+  "color": "Brown",
+  "features": [
+    "Eco-friendly",
+    "Mini"
+  ],
+  "price": 86.99,
+  "description": "Nice Leather mini Bag",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access4.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284540f"
+  },
+  "name": "Wide-Brim Straw Hat",
+  "category": "Accessories",
+  "subcategory": "Hats",
+  "material": "Straw",
+  "type": "Wide-Brim",
+  "color": "Black",
+  "features": [
+    "UV protection",
+    "Lightweight"
+  ],
+  "price": 49.99,
+  "description": "Wide-Brim straw hat",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845410"
+  },
+  "name": "Classic soft hat",
+  "category": "Accessories",
+  "subcategory": "Hats",
+  "material": "Wool",
+  "color": "Brown",
+  "features": [
+    "Stylish",
+    "Soft texture"
+  ],
+  "price": 39.99,
+  "description": "Soft and delicate straw hat",
+  "image_url": "https://ilin88.sirv.com/db-images/access/access13.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845411"
+  },
+  "name": "Luxury Fur Coat",
+  "category": "Outwear",
+  "subcategory": "Fur Coat",
+  "material": "Real Fur",
+  "color": "Beige",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm",
+    "Luxurious design",
+    "Soft texture"
+  ],
+  "price": 899.99,
+  "description": "A premium white fur coat with an elegant design, ideal for cold winters.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/furcoat4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845412"
+  },
+  "name": " Faux Fur Coat",
+  "category": "Outwear",
+  "subcategory": "Fur Coat",
+  "material": "Faux Fur",
+  "color": "Red ",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm",
+    "Bright design",
+    "Soft texture"
+  ],
+  "price": 599.99,
+  "description": "A premium red fur coat with an elegant design, ideal for cold winters.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/furcoat1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845413"
+  },
+  "name": "Luxury Black Fur Coat",
+  "category": "Outwear",
+  "subcategory": "Fur Coat",
+  "material": "Real Fur and leather",
+  "color": "Black",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm",
+    "Luxurious design",
+    "Soft texture"
+  ],
+  "price": 799.99,
+  "description": "A premium black fur coat with an elegant design, ideal for cold autumns.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/furcoat3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845414"
+  },
+  "name": "Eco-Friendly Faux Fur Coat",
+  "category": "Outwear",
+  "subcategory": "Fur Coat",
+  "material": "Faux Fur",
+  "color": "Black",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Eco-friendly",
+    "Soft and warm",
+    "Modern look"
+  ],
+  "price": 499.99,
+  "description": "A sustainable faux fur coat in black, combining warmth and modern aesthetics.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/furcoat2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845415"
+  },
+  "name": "Luxury Fur Coat",
+  "category": "Outwear",
+  "subcategory": "Fur Coat",
+  "material": "Real Fur",
+  "color": "Black",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm",
+    "Luxurious design",
+    "Soft texture"
+  ],
+  "price": 899.99,
+  "description": "A premium black fur coat with an elegant design, ideal for cold winters.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/furcoat5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845416"
+  },
+  "name": "Lightweight Down Jacket",
+  "category": "Outwear",
+  "subcategory": "Jacket",
+  "material": "Polyester",
+  "color": "Black",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Lightweight",
+    "Water-resistant",
+    "Insulated for warmth"
+  ],
+  "price": 179.99,
+  "description": "A lightweight and insulated black down jacket for active lifestyles in cold weather.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/jacket1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845417"
+  },
+  "name": "Lightweight Down Jacket",
+  "category": "Outwear",
+  "subcategory": "Jacket",
+  "material": "Polyester",
+  "color": "Beige",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Lightweight",
+    "Water-resistant",
+    "Insulated for warmth"
+  ],
+  "price": 160.99,
+  "description": "A lightweight and insulated beige down jacket for active lifestyles in cold weather.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/jacket2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845418"
+  },
+  "name": "Lightweight Down Jacket",
+  "category": "Outwear",
+  "subcategory": "Jacket",
+  "material": "Polyester",
+  "color": "Red",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Lightweight",
+    "Water-resistant",
+    "Insulated for warmth"
+  ],
+  "price": 279.99,
+  "description": "A lightweight and insulated navy blue down jacket for active lifestyles in cold weather.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/jacket3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845419"
+  },
+  "name": "Bow Down Jacket",
+  "category": "Outwear",
+  "subcategory": "Jacket",
+  "material": "Polyester",
+  "color": "Black",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Lightweight",
+    "Water-resistant",
+    "Insulated for warmth"
+  ],
+  "price": 179.99,
+  "description": "A lightweight and insulated black down jacket with bows for active lifestyles in cold weather.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/jacket4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541a"
+  },
+  "name": "Warm Down Jacket",
+  "category": "Outwear",
+  "subcategory": "Jacket",
+  "material": "Polyester",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Water-resistant",
+    "Insulated for warmth"
+  ],
+  "price": 279.99,
+  "description": "A lightweight and insulated  blue down jacket for active lifestyles in cold weather.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/jacket5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541b"
+  },
+  "name": "Cartoon Wool Coat",
+  "category": "Outwear",
+  "subcategory": "Coat",
+  "material": "Wool",
+  "color": "Black ",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Stylish",
+    "Warm",
+    "Timeless design"
+  ],
+  "price": 350.99,
+  "description": "A cool black wool coat with a sophisticated design for bright individuals.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/coat1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541c"
+  },
+  "name": "Classic Wool Coat",
+  "category": "Outwear",
+  "subcategory": "Coat",
+  "material": "Cashmere",
+  "color": "Beige",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Stylish",
+    "Warm",
+    "Timeless design"
+  ],
+  "price": 450.99,
+  "description": "An elegant beige wool coat with a sophisticated and timeless design for formal occasions.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/coat2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541d"
+  },
+  "name": "Classic Wool Coat",
+  "category": "Outwear",
+  "subcategory": "Coat",
+  "material": "Wool",
+  "color": "Black",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Stylish",
+    "Warm",
+    "Timeless design"
+  ],
+  "price": 249.99,
+  "description": "A classic black wool coat with a sophisticated and timeless design for formal occasions.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/coat3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541e"
+  },
+  "name": "Elegant Bordo Coat",
+  "category": "Outwear",
+  "subcategory": "Coat",
+  "material": "Leather",
+  "color": "Red",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Stylish",
+    "Individual design"
+  ],
+  "price": 249.99,
+  "description": "An elegent bordo leather coat with a sophisticated and timeless design.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/coat4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284541f"
+  },
+  "name": "Cute cashemere Coat",
+  "category": "Outwear",
+  "subcategory": "Coat",
+  "material": "Cashemer",
+  "color": "Gray",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Stylish",
+    "Warm",
+    "Timeless design"
+  ],
+  "price": 249.99,
+  "description": "A classic black wool coat with a sophisticated and timeless design for formal occasions.",
+  "image_url": "https://ilin88.sirv.com/db-images/outwear/coat5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845420"
+  },
+  "name": "Elegant Evening Dress",
+  "category": "Dresses",
+  "material": "Satin",
+  "features": [
+    "Elegant",
+    "Formal",
+    "Soft Fabric"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 89.99,
+  "description": "A stunning satin evening dress perfect for formal occasions, with a flattering fit.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress6.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845421"
+  },
+  "name": "Summer Floral Dress",
+  "category": "Dresses",
+  "material": "Cotton",
+  "features": [
+    "Lightweight",
+    "Breathable",
+    "Casual"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 49.99,
+  "description": "A refreshing floral cotton dress for a comfortable summer look.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress15.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845422"
+  },
+  "name": "Maxi Dress",
+  "category": "Dresses",
+  "material": "Chiffon",
+  "features": [
+    "Flowy",
+    "Lightweight",
+    "Elegant"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 129.99,
+  "description": "A luxurious chiffon maxi dress that is perfect for evening events.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress13.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845423"
+  },
+  "name": "Purple Boho Dress",
+  "category": "Dresses",
+  "material": "Cotton, Silk",
+  "features": [
+    "Open Shoulder",
+    "Feather Sleeves",
+    "Boho Chic"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 69.99,
+  "description": "Elegant and romantic dress in a soft purple shade, with an open shoulder design and feathered sleeves, perfect for a chic boho look.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress4.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845424"
+  },
+  "name": "Burgundy Classic Dress",
+  "category": "Dresses",
+  "subcategory": "Classic",
+  "material": "Wool, Polyester",
+  "features": [
+    "Short Sleeves",
+    "Classic Fit",
+    "Timeless Design"
+  ],
+  "color": [
+    "Burgundy"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 79.99,
+  "description": "A timeless burgundy dress with short sleeves, perfect for any formal occasion. The classic fit and high-quality fabric ensure comfort and elegance.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress11.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845425"
+  },
+  "name": "Beige Mini Dress",
+  "category": "Dresses",
+  "material": "Cotton, Spandex",
+  "features": [
+    "Short Length",
+    "Fitted",
+    "Elegant"
+  ],
+  "color": [
+    "Beige"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 49.99,
+  "description": "A chic and elegant beige mini dress, perfect for summer evenings and casual outings. Its fitted design and soft cotton-spandex blend ensure both comfort and a flattering silhouette.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845426"
+  },
+  "name": "Long Organza Dress with Bow",
+  "category": "Dresses",
+  "material": "Organza, Silk",
+  "features": [
+    "Long Length",
+    "Bow Detail",
+    "Elegant",
+    "Flowy"
+  ],
+  "color": [
+    "Soft Pink",
+    "Ivory",
+    "Lavender"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 129.99,
+  "description": "An elegant long dress made from luxurious organza fabric, featuring a delicate bow detail at the back. Its airy, flowy silhouette makes it perfect for formal events, evening galas, or a romantic night out.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress8.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845427"
+  },
+  "name": "Shiny Black Dress with Deep V-neck",
+  "category": "Dresses",
+  "material": "Satin, Sequin",
+  "features": [
+    "Shiny",
+    "V-neck",
+    "Sleeveless",
+    "Form-Fitting"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 149.99,
+  "description": "A stunning shiny black dress with a deep V-neck, designed to turn heads. The sequined fabric adds a glamorous touch, making it the perfect choice for evening events, cocktail parties, or special occasions.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress7.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845428"
+  },
+  "name": "Black Long Sleeve Dress with Feathered Hem",
+  "category": "Dresses",
+  "material": "Velvet, Feathers",
+  "features": [
+    "Long Sleeve",
+    "Feathered Hem",
+    "Form-Fitting",
+    "Elegant"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 179.99,
+  "description": "A sophisticated black velvet dress with long sleeves and a luxurious feathered hem. This elegant design adds a unique twist to a classic look, making it ideal for formal events or a night out.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress5.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845429"
+  },
+  "name": "Silver Sparkling Mini Dress",
+  "category": "Dresses",
+  "material": "Sequins, Polyester",
+  "features": [
+    "Mini Length",
+    "Sparkling",
+    "Form-Fitting",
+    "V-Neck"
+  ],
+  "color": [
+    "Silver"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 129.99,
+  "description": "A glamorous silver mini dress with a shimmering sequin design, perfect for evening parties or special occasions. The form-fitting cut and V-neckline add to the sleek, eye-catching style.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress9.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542a"
+  },
+  "name": "Silk Mini Dress in Ash Brown",
+  "category": "Dresses",
+  "material": "Silk",
+  "features": [
+    "Mini Length",
+    "Flowy",
+    "Elegant",
+    "V-Neck"
+  ],
+  "color": [
+    "Ash Brown"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 98.99,
+  "description": "A luxurious ash brown silk mini dress with a soft, flowy fit that drapes elegantly over the body. The V-neckline and delicate material make it perfect for a chic and casual day out or evening event.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress12.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542b"
+  },
+  "name": "Black Corset Dress with Front Train",
+  "category": "Dresses",
+  "material": "Satin",
+  "features": [
+    "Corset",
+    "Front Train",
+    "Fitted",
+    "Elegant",
+    "V-Neck"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 189.99,
+  "description": "An elegant black satin corset dress with a front train that adds a dramatic flair. The fitted corset-style bodice accentuates the waist, while the train at the front creates a stunning, glamorous effect. Perfect for formal evening events.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress14.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542c"
+  },
+  "name": "Black Dress with Belt",
+  "category": "Dresses",
+  "material": "Cotton Blend",
+  "features": [
+    "Belted",
+    "A-Line",
+    "Short Sleeves",
+    "Versatile",
+    "Comfortable"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 49.99,
+  "description": "A simple yet stylish black dress with a belted waist, offering a flattering A-line fit. Made from a soft cotton blend, it's perfect for casual outings or day-to-day wear. Its versatility allows it to be dressed up or down with ease.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress10.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542d"
+  },
+  "name": "Black Sparkling Evening Dress",
+  "category": "Dresses",
+  "subcategory": "Evening",
+  "material": "Sequin Fabric",
+  "features": [
+    "Sparkling",
+    "V-Neck",
+    "Sleeveless",
+    "Slim Fit",
+    "Floor-Length"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 129.99,
+  "description": "This stunning black evening dress is adorned with sparkling sequins, creating a dazzling effect perfect for special events. Featuring a flattering V-neckline and a sleek, slim-fit silhouette, this floor-length dress exudes elegance and glamour for a night out.",
+  "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542e"
+  },
+  "name": "Pink Loose Jeans",
+  "category": "Bottoms",
+  "subcategory": "Jeans",
+  "material": "Cotton",
+  "features": [
+    "Loose Fit",
+    "High Waist",
+    "Relaxed",
+    "Straight Leg"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 39.99,
+  "description": "Comfortable and stylish pink loose jeans made from soft cotton fabric. Perfect for casual outings and weekend wear.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284542f"
+  },
+  "name": "Black Flared Jeans",
+  "category": "Bottoms",
+  "subcategory": "Jeans",
+  "material": "Cotton",
+  "features": [
+    "Flared",
+    "High Waist",
+    "Vintage Style",
+    "Wide Leg"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 49.99,
+  "description": "Classic black flared jeans with a flattering high waist. Perfect for adding a retro touch to your outfit.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845430"
+  },
+  "name": "Black Short Jeans with Pockets",
+  "category": "Bottoms",
+  "subcategory": "Jeans",
+  "material": "Cotton",
+  "features": [
+    "Short",
+    "High Waist",
+    "Pocket Details"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 29.99,
+  "description": "Black short jeans with practical pockets, perfect for casual summer outings.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845431"
+  },
+  "name": "Blue Classic Jeans",
+  "category": "Bottoms",
+  "subcategory": "Jeans",
+  "material": "Cotton",
+  "features": [
+    "Classic Fit",
+    "Straight Leg",
+    "Mid Waist"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 44.99,
+  "description": "Timeless blue jeans with a classic cut. Ideal for everyday wear, combining comfort and style.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845432"
+  },
+  "name": "Burgundy Loose Jeans",
+  "category": "Bottoms",
+  "subcategory": "Jeans",
+  "material": "Cotton",
+  "features": [
+    "Loose Fit",
+    "High Waist",
+    "Relaxed",
+    "Straight Leg"
+  ],
+  "color": [
+    "Burgundy"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 49.99,
+  "description": "Stylish burgundy loose jeans, perfect for creating a laid-back yet fashionable look.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845433"
+  },
+  "name": "Classic Trousers",
+  "category": "Bottoms",
+  "subcategory": "Trousers",
+  "material": "Wool Blend",
+  "features": [
+    "Classic Fit",
+    "Straight Leg",
+    "Tailored",
+    "Mid Waist"
+  ],
+  "color": [
+    "Black",
+    "Navy",
+    "Gray"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 59.99,
+  "description": "These classic tailored trousers are made with a wool blend fabric for a sophisticated and comfortable fit.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845434"
+  },
+  "name": "Orange Satin Trousers",
+  "category": "Bottoms",
+  "subcategory": "Trousers",
+  "material": "Satin",
+  "features": [
+    "High Waist",
+    "Wide Leg",
+    "Shiny Finish"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 79.99,
+  "description": "Elegant satin trousers in a vibrant orange color, perfect for evening wear or festive events.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845435"
+  },
+  "name": "Grey Classic Loose Trousers",
+  "category": "Bottoms",
+  "subcategory": "Trousers",
+  "material": "Cotton Blend",
+  "features": [
+    "Loose Fit",
+    "Mid Waist",
+    "Relaxed Style"
+  ],
+  "color": [
+    "Grey"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 54.99,
+  "description": "These grey loose trousers combine comfort with a classic look, ideal for both casual and smart-casual outfits.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845436"
+  },
+  "name": "Dark Blue Classic Trousers",
+  "category": "Bottoms",
+  "subcategory": "Trousers",
+  "material": "Cotton",
+  "features": [
+    "Straight Leg",
+    "Mid Waist",
+    "Classic Fit"
+  ],
+  "color": [
+    "Dark Blue"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 59.99,
+  "description": "Dark blue trousers with a clean, classic fit. A versatile option for both office wear and casual days.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845437"
+  },
+  "name": "Bright Blue Classic Trousers",
+  "category": "Bottoms",
+  "subcategory": "Trousers",
+  "material": "Cotton",
+  "features": [
+    "Straight Leg",
+    "Mid Waist",
+    "Bright Blue Color"
+  ],
+  "color": [
+    "Bright Blue"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 59.99,
+  "description": "Bright blue trousers with a classic fit, perfect for adding a pop of color to your wardrobe.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845438"
+  },
+  "name": "Grey Mini Skirt with Bows",
+  "category": "Bottoms",
+  "subcategory": "Skirt",
+  "material": "Cotton",
+  "features": [
+    "Mini Length",
+    "High Waist",
+    "Bow Details"
+  ],
+  "color": [
+    "Grey"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 29.99,
+  "description": "A cute grey mini skirt with charming bow details. Ideal for casual, day-to-day wear.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845439"
+  },
+  "name": "Dark Blue Classic Mini Skirt",
+  "category": "Bottoms",
+  "subcategory": "Skirt",
+  "material": "Cotton",
+  "features": [
+    "Mini Length",
+    "Classic Style",
+    "High Waist"
+  ],
+  "color": [
+    "Dark Blue"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 34.99,
+  "description": "A timeless dark blue classic mini skirt, perfect for everyday wear or dressing up for an evening out.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543a"
+  },
+  "name": "Black Classic Midi Skirt",
+  "category": "Bottoms",
+  "subcategory": "Skirt",
+  "material": "Cotton",
+  "features": [
+    "Midi Length",
+    "Classic Fit",
+    "High Waist"
+  ],
+  "color": [
+    "Black"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 39.99,
+  "description": "A versatile black midi skirt with a classic cut. Perfect for both work and casual wear.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt3.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543b"
+  },
+  "name": "Dark Green Classic Skirt with Pocket",
+  "category": "Bottoms",
+  "subcategory": "Skirt",
+  "material": "Cotton",
+  "features": [
+    "Classic Fit",
+    "Mid Length",
+    "Front Pocket"
+  ],
+  "color": [
+    "Dark Green"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 34.99,
+  "description": "Dark green skirt with a classic cut and practical pocket detail. Ideal for smart-casual wear.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt4.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543c"
+  },
+  "name": "Burgundy Evening Skirt with Belt",
+  "category": "Bottoms",
+  "subcategory": "Skirt",
+  "material": "Satin",
+  "features": [
+    "Belted",
+    "Evening Wear",
+    "A-Line",
+    "Midi Length"
+  ],
+  "color": [
+    "Burgundy"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price": 79.99,
+  "description": "Elegant burgundy satin skirt with a belted waist, perfect for evening events and formal occasions.",
+  "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt5.jpeg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543d"
+  },
+  "name": "Sophisticated Leather  Corset",
+  "category": "Tops",
+  "subcategory": "Corset",
+  "material": "Leather ",
+  "color": "Black",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Elegant design",
+    "Smooth texture",
+    "Figure-enhancing fit"
+  ],
+  "price": 89.99,
+  "description": "An elegant satin corset in ivory, offering a sophisticated look with a smooth texture and figure-enhancing fit.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/corset1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543e"
+  },
+  "name": "Sophisticated Leather  Corset with bows",
+  "category": "Tops",
+  "subcategory": "Corset",
+  "material": "Leather ",
+  "color": "Black",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Cute design",
+    "Smooth texture",
+    "Figure-enhancing fit"
+  ],
+  "price": 65.99,
+  "description": "An elegant leather corset in ivory, offering a sophisticated look with a smooth texture and figure-enhancing fit.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/corset2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284543f"
+  },
+  "name": "Sophisticated Leather  Corset",
+  "category": "Tops",
+  "subcategory": "Corset",
+  "material": "Leather ",
+  "color": "Black",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Elegant design",
+    "Smooth texture",
+    "Figure-enhancing fit"
+  ],
+  "price": 89.99,
+  "description": "An elegant leather corset in ivory, offering a sophisticated look with a smooth texture and figure-enhancing fit.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/corset3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845440"
+  },
+  "name": "Sophisticated Leather  Corset",
+  "category": "Tops",
+  "subcategory": "Corset",
+  "material": "Denim ",
+  "color": "Navy blue",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Elegant design",
+    "Smooth texture",
+    "Figure-enhancing fit"
+  ],
+  "price": 45.99,
+  "description": "A cool corset in navy blue, offering a sophisticated look with a smooth texture and figure-enhancing fit.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/corset4.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845441"
+  },
+  "name": "Sophisticated Leather  Corset",
+  "category": "Tops",
+  "subcategory": "Corset",
+  "material": "Nylon",
+  "color": "Black-white",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Elegant design",
+    "Smooth texture",
+    "Figure-enhancing fit"
+  ],
+  "price": 22.99,
+  "description": "An elegant nylon corset in balck and white, offering a sophisticated look with a smooth texture and figure-enhancing fit.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/corset5.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845442"
+  },
+  "name": "Cozy Wool Sweater",
+  "category": "Tops",
+  "subcategory": "Sweater",
+  "material": "Wool",
+  "color": "Gray",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm and cozy",
+    "Soft feel",
+    "Versatile for casual wear"
+  ],
+  "price": 74.99,
+  "description": "A warm and cozy gray wool sweater, perfect for casual or semi-formal outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/sweater1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845443"
+  },
+  "name": "Red Cozy Wool Sweater",
+  "category": "Tops",
+  "subcategory": "Sweater",
+  "material": "Wool",
+  "color": "Red",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm and cozy",
+    "Soft feel",
+    "Versatile for casual wear"
+  ],
+  "price": 74.99,
+  "description": "A warm and cozy red wool sweater, perfect for casual or semi-formal outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/sweater2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845444"
+  },
+  "name": "Stylish Cozy Wool Sweater",
+  "category": "Tops",
+  "subcategory": "Sweater",
+  "material": "Wool",
+  "color": "Gray",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm and cozy",
+    "Soft feel",
+    "Versatile for casual wear"
+  ],
+  "price": 74.99,
+  "description": "A warm and cozy gray wool sweater, perfect for casual or semi-formal outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/sweater3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845445"
+  },
+  "name": "Cozy Wool Sweater",
+  "category": "Tops",
+  "subcategory": "Sweater",
+  "material": "Wool",
+  "color": "Gray",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm and cozy",
+    "Soft feel",
+    "Versatile for casual wear"
+  ],
+  "price": 74.99,
+  "description": "A warm and cozy gray wool sweater, perfect for casual or semi-formal outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/sweater4.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845446"
+  },
+  "name": "Elegant Cozy Wool Sweater",
+  "category": "Tops",
+  "subcategory": "Sweater",
+  "material": "Wool",
+  "color": "Beige",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "features": [
+    "Warm and cozy",
+    "Soft feel",
+    "Versatile for casual wear"
+  ],
+  "price": 74.99,
+  "description": "A warm and elegant beige wool sweater, perfect for casual or semi-formal outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/sweater5.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845447"
+  },
+  "name": "Chic Cotton Top",
+  "category": "Tops",
+  "subcategory": "Top",
+  "material": "Cotton",
+  "color": "Gray",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Breathable",
+    "Lightweight",
+    "Stylish"
+  ],
+  "price": 49.99,
+  "description": "A chic white cotton top, lightweight and breathable, ideal for warm days and layered outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/top1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845448"
+  },
+  "name": "Classic Cotton Top",
+  "category": "Tops",
+  "subcategory": "Top",
+  "material": "Cotton",
+  "color": "Black",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Breathable",
+    "Lightweight",
+    "Stylish"
+  ],
+  "price": 49.99,
+  "description": "A classic black cotton top, lightweight and breathable, ideal for warm days and layered outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/top2.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f2845449"
+  },
+  "name": "Cool gray Cotton Top",
+  "category": "Tops",
+  "subcategory": "Top",
+  "material": "Cotton",
+  "color": "White",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Breathable",
+    "Lightweight",
+    "Stylish"
+  ],
+  "price": 49.99,
+  "description": "A Cool gray cotton top, lightweight and breathable, ideal for warm days and layered outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/top3.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284544a"
+  },
+  "name": "Cozy Cotton Top",
+  "category": "Tops",
+  "subcategory": "Top",
+  "material": "Wool",
+  "color": "Gray",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Warm",
+    "Lightweight",
+    "Stylish"
+  ],
+  "price": 49.99,
+  "description": "A Cozy gray cotton top, lightweight and breathable, ideal for cold days and layered outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/top4.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d5dfcac0212f8f284544b"
+  },
+  "name": "Skims Cotton Top",
+  "category": "Tops",
+  "subcategory": "Top",
+  "material": "Cotton",
+  "color": "Gray",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "features": [
+    "Elegant",
+    "Lightweight",
+    "Stylish"
+  ],
+  "price": 49.99,
+  "description": "A skims gray cotton top, lightweight and breathable, ideal for warm days and layered outfits.",
+  "image_url": "https://ilin88.sirv.com/db-images/top/top5.jpg"
+}]
